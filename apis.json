@@ -1,0 +1,42 @@
+{
+    "name": "CivicLab Chicago",
+    "description": "A community space supporting DIY democracy through co-working; meeting, and event space; classes on civics and DIY practices; and original tools and research.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10302-civiclab-chicago.jpg",
+    "tags": [
+        "cities",
+        "civic",
+        "have api",
+        "incubator"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/civiclab-chicago\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CivicLab Chicago",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10302-civiclab-chicago.jpg",
+            "humanURL": "http:\/\/www.civiclab.us\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/civiclab-chicago-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/civiclabchicago"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.civiclab.us\/"
+        }
+    ]
+}
